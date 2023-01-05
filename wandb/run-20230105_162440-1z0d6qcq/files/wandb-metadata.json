@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2023-01-05T09:24:42.324914",
+    "startedAt": "2023-01-05T09:24:40.732056",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "parameters.n_cv_splits=10",
+        "parameters.validation_size=0.5"
+    ],
+    "state": "running",
+    "program": "E:\\StudyingandExaminations\\AI\\Projects\\ML-Project-Experiment-Template\\testing_wandb_itergration.py",
+    "codePath": "testing_wandb_itergration.py",
+    "git": {
+        "remote": "https://github.com/BaoLocPham/ML-Project-Experiment-Template.git",
+        "commit": "8fb3a0b288c6ce84158a6bb935697889af3e2408"
+    },
+    "email": "phambaoloc163@gmail.com",
+    "root": "E:/StudyingandExaminations/AI/Projects/ML-Project-Experiment-Template",
+    "host": "DESKTOP-0BK3III",
+    "username": "admin",
+    "executable": "C:\\Users\\admin\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {
+        "total": 731.4960899353027,
+        "used": 655.7131652832031
+    },
+    "gpu": "NVIDIA GeForce GTX 1050",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1050",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.855854034423828
+    }
+}

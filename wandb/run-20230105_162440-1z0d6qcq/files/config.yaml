@@ -1,0 +1,51 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.7
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.12
+    start_time: 1672910680.811056
+    t:
+      1:
+      - 50
+      - 55
+      2:
+      - 50
+      - 55
+      3:
+      - 2
+      - 16
+      - 23
+      4: 3.9.12
+      5: 0.13.7
+      8:
+      - 3
+      - 5
+name:
+  desc: null
+  value: experiment-tracking-default-risk
+parameters:
+  desc: null
+  value:
+    n_cv_splits: 10
+    rf__class_weight: balanced
+    rf__criterion: gini
+    rf__max_depth: 40
+    rf__max_features: 0.3
+    rf__n_estimators: 2000
+    shuffle: 1
+    stratified_cv: true
+    validation_size: 0.5
+project:
+  desc: null
+  value: ORGANIZATION/experiment-tracking
+wandb:
+  desc: null
+  value:
+    WANDB_API_KEY: 1f1a527a85be9d41cffc5b10cf8be3c701778886
+    entity: baolocpham
+    name: TEST
+    project: experiment-tracking

@@ -1,0 +1,2 @@
+- parameters.n_cv_splits=10
+- parameters.validation_size=0.9
