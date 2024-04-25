@@ -1,3 +1,5 @@
 hydra-core
 omegaconf
 wandb
+autopep8
+pre-commit
